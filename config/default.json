@@ -1,0 +1,17 @@
+{
+  "consensusAddress": "0x4E8d3ad28E7F75F083Bffd645282B4e2a7a307cE",
+  "blockRewardAddress": "0xD4C8788Fc018533915d353Cf9215adbaBe215337",
+  "web3": {
+    "fuseProvider": "https://mainnet-rpc.mochain.app"
+  },
+  "api": {
+    "boot": "https://bot.mochain.app/api/v1"
+  },
+  "reactGA": {
+    "trackingId": "G-LHHHX57LEJ",
+    "gaOptions": {
+      "testMode": true,
+      "debug": true
+    }
+  }
+}
